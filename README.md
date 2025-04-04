@@ -13,9 +13,9 @@ This is the official support repository for GPTPrompt - a powerful iOS app that 
 ## Support Channels
 
 - 📧 **Email Support**: GPTPrompt.ios@gmail.com
-- 🐛 **Bug Reports**: [Report Bugs](https://github.com/GptPrompt/GPTPrompt/issues)
-- 💡 **Feature Requests**: [Request Features](https://github.com/GptPromt/GPTPrompt/issues)
-- 💬 **Community Support**: [Join Discussions](https://github.com/GptPromt/GPTPrompt/discussions)
+- 🐛 **Bug Reports**: [Report Bugs](https://github.com/GptPromptios/GPTPrompt/issues)
+- 💡 **Feature Requests**: [Request Features](https://github.com/GptPromtios/GPTPrompt/issues)
+- 💬 **Community Support**: [Join Discussions](https://github.com/GptPromtios/GPTPrompt/discussions)
 
 ## App Features
 
@@ -38,8 +38,8 @@ This is the official support repository for GPTPrompt - a powerful iOS app that 
 ## Getting Help
 
 1. Check our [Support Documentation](Support.md)
-2. Search existing [Issues](https://github.com/yourusername/GPTPrompt/issues)
-3. Join [Discussions](https://github.com/yourusername/GPTPrompt/discussions)
+2. Search existing [Issues](https://github.com/GptPromtios/GPTPrompt/issues)
+3. Join [Discussions](https://github.com/GptPromptios/GPTPrompt/discussions)
 4. Contact us via email if needed
 
 ## Privacy
@@ -51,7 +51,7 @@ This is the official support repository for GPTPrompt - a powerful iOS app that 
 ## Contact
 
 - Email: GPTPrompt.ios@gmail.com
-- GitHub: [@yourusername](https://github.com/GptPrompt)
+- GitHub: [GptPromptios](https://github.com/GptPrompt)
 
 ---
 
